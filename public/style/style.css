@@ -1,0 +1,35 @@
+body{
+     background-image:url("background.jpg"); background-size: cover;}
+#display{
+    width: 50%;
+    background-color: transparent;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: none;
+    box-shadow:1px 1px 1px 1px blue;
+}
+#my_camera{
+    position: absolute;
+    margin-left: 62%;
+    margin-top: -24%;
+}
+
+#results{
+    position: absolute;
+    margin-left: 36%;
+    margin-top: -28%;
+}
+#snap{
+    position: absolute;
+    margin-left: 62%;
+    margin-top: -6%;
+}
+#register{
+    color: white;
+}
+.labels{
+    color: white;
+}
+#PhotoClickMessage{
+    color: white;
+}
